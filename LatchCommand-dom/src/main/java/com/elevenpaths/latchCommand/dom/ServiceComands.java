@@ -1,4 +1,4 @@
-package com.elevenpaths.dom;
+package com.elevenpaths.latchCommand.dom;
 
 public class ServiceComands {
 
