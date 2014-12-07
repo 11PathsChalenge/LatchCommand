@@ -4,4 +4,11 @@
   <artifactId>LatchCommand</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>LatchCommand</name>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>LatchCommand-dom</module>
+  	<module>LatchCommand-app</module>
+  	<module>LatchCommand-JDO</module>
+  	<module>LatchCommand-service</module>
+  </modules>
 </project>
