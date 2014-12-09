@@ -6,4 +6,17 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>LatchCommand-app</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>${project.groupId}</groupId>
+  		<artifactId>LatchCommand-dom</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>${project.groupId}</groupId>
+  		<artifactId>LatchCommand-service</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+  <version>0.0.1-SNAPSHOT</version>
 </project>
